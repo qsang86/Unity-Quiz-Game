@@ -1,0 +1,11 @@
+{
+	"questions":[{
+		"text": "sample questions 1",
+		"answer": "true"
+	}, {
+		"text": "sample question 2",
+		"answer:" "false"
+	}]
+	"collectionsName": "questionSet"
+	
+}
